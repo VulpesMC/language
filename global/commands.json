@@ -1,0 +1,7 @@
+{
+    "GLOBAL.COMMANDS.noPermission": {
+        "en_US": "%error% %dot% You are not allowed to execute this command!",
+        "de_DE": "%error% %dot% Du darfst das nicht!",
+        "vs_ME": "%error% %dot% Netter versuch!"
+    }
+}
