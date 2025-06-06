@@ -3,7 +3,7 @@
         "en_US": "%info% %prefixMain% %dot% Showing a total of [totalServers] server(s): ",
         "de_DE": "%info% %prefixMain% %dot% Showing a total of [totalServers] server(s): "
     },
-    "GLOBAL.SYSTEM.SERVER_STATS.COMMAND.OPTION": {
+    "GLOBAL.SYSTEM.SERVER_STATS.COMMAND.OPTIONS": {
         "en_US": "%info% %dot% [name]: TPS (5s) <gray>[tps5sek]</gray>; TPS (1m) <gray>[tps1min]</gray>; Uptime <gray>[uptime]</gray>",
         "de_DE": "%info% %dot% [name]: TPS (5s) <gray>[tps5sek]</gray>; TPS (1m) <gray>[tps1min]</gray>; Uptime <gray>[uptime]</gray>"
     },
