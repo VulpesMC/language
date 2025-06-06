@@ -8,8 +8,8 @@
         "de_DE": "%info% %dot% [name]: TPS (5s) <gray>[tps5sek]</gray>; TPS (1m) <gray>[tps1min]</gray>; Uptime <gray>[uptime]</gray>"
     },
     "GLOBAL.SYSTEM.SEVER_STATS.COMMAND.SINGLE": {
-        "en_US": "%info% %dot% [name]<br>  %info% %dot% TPS (5s) <gray>[tps5sek]</gray><br>  %info% %dot% TPS (10s) <gray>[tps10sek]</gray><br>  %info% %dot% TPS (1m) <gray>[tps1min]</gray><br>  %info% %dot% TPS (15min) <gray>[tps15min]</gray><br>  %info% %dot% OnlinePlayers <gray>[onlinePlayers]/[maxPlayers]</gray><br>  %info% %dot% Version <gray>[version.version] ([version.name])</gray><br>  %info% %dot% Uptime <gray>[uptime]</gray><br>",
-        "de_DE": "%info% %info% %dot% [name]<br>  %info% %dot% TPS (5s) <gray>[tps5sek]</gray><br>  %info% %info% %dot% TPS (10s) <gray>[tps10sek]</gray><br>  %info% %dot% TPS (1m) <gray>[tps1min]</gray><br>  %info% %dot% TPS (15min) <gray>[tps15min]</gray><br>  %info% %dot% OnlinePlayers <gray>[onlinePlayers]/[maxPlayers]</gray><br>  %info% %dot% Version <gray>[version.version] ([version.name])</gray><br>  %info% %dot% Uptime <gray>[uptime]</gray><br>"
+        "en_US": "%info% %dot% [name]<br> %info% %dot% TPS (5s) <gray>[tps5sek]</gray><br> %info% %dot% TPS (10s) <gray>[tps10sek]</gray><br> %info% %dot% TPS (1m) <gray>[tps1min]</gray><br> %info% %dot% TPS (15min) <gray>[tps15min]</gray><br> %info% %dot% OnlinePlayers <gray>[onlinePlayers]/[maxPlayers]</gray><br> %info% %dot% Version <gray>[version.version] ([version.name])</gray><br> %info% %dot% Uptime <gray>[uptime]</gray><br>",
+        "de_DE": "%info% %dot% [name]<br> %info% %dot% TPS (5s) <gray>[tps5sek]</gray><br> %info% %dot% TPS (10s) <gray>[tps10sek]</gray><br> %info% %dot% TPS (1m) <gray>[tps1min]</gray><br> %info% %dot% TPS (15min) <gray>[tps15min]</gray><br> %info% %dot% OnlinePlayers <gray>[onlinePlayers]/[maxPlayers]</gray><br> %info% %dot% Version <gray>[version.version] ([version.name])</gray><br> %info% %dot% Uptime <gray>[uptime]</gray><br>"
     },
     "GLOBAL.SYSTEM.SEVER_STATS.COMMAND.SINGLE.HEADER": {
         "en_US": "%info% %prefixMain% %dot% Showing stats for Server [name]: ",
