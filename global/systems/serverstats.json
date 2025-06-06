@@ -1,0 +1,18 @@
+{
+    "GLOBAL.SYSTEM.SERVER_STATS.COMMAND.HEADER": {
+        "en_US": "%info% %prefixMain% %dot% Showing a total of [totalServers] server(s): ",
+        "de_DE": "%info% %prefixMain% %dot% Showing a total of [totalServers] server(s): "
+    },
+    "GLOBAL.SYSTEM.SERVER_STATS.COMMAND.OPTION": {
+        "en_US": "%info% %dot% [name]: TPS (5s) <gray>[tps5sek]</gray>; TPS (1m) <gray>[tps1min]</gray>; Uptime <gray>[uptime]</gray>",
+        "de_DE": "%info% %dot% [name]: TPS (5s) <gray>[tps5sek]</gray>; TPS (1m) <gray>[tps1min]</gray>; Uptime <gray>[uptime]</gray>"
+    },
+    "GLOBAL.SYSTEM.SEVER_STATS.COMMAND.SINGLE": {
+        "en_US": "%info% %dot% [name]<br>  %dot% TPS (5s) <gray>[tps5sek]</gray><br>  %dot% TPS (10s) <gray>[tps10sek]</gray><br>  %dot% TPS (1m) <gray>[tps1min]</gray><br>  %dot% TPS (15min) <gray>[tps15min]</gray><br>  %dot% OnlinePlayers <gray>[onlinePlayers]/[maxPlayers]</gray><br>  %dot% Version <gray>[version.version] ([version.name])</gray><br>",
+        "de_DE": "%info% %dot% [name]<br>  %dot% TPS (5s) <gray>[tps5sek]</gray><br>  %dot% TPS (10s) <gray>[tps10sek]</gray><br>  %dot% TPS (1m) <gray>[tps1min]</gray><br>  %dot% TPS (15min) <gray>[tps15min]</gray><br>  %dot% OnlinePlayers <gray>[onlinePlayers]/[maxPlayers]</gray><br>  %dot% Version <gray>[version.version] ([version.name])</gray><br>"
+    },
+    "GLOBAL.SYSTEM.SEVER_STATS.COMMAND.SINGLE.HEADER": {
+        "en_US": "%info% %prefixMain% %dot% Showing stats for Server [name]: ",
+        "de_DE": "%info% %prefixMain% %dot% Showing stats for Server [name]: "
+    }
+}
