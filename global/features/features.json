@@ -1,0 +1,10 @@
+{
+    "GLOBAL.FEATURES.FLY.enabled": {
+        "en_US": "%success% %mainPrefix% %dot% You have <green>enabled</green> fly!",
+        "de_DE": "%success% %mainPrefix% %dot% Du hast kannst nun fliegen!"
+    },
+    "GLOBAL.FEATURES.FLY.disabled": {
+        "en_US": "%success% %mainPrefix% %dot% You have <red>disabled</red> fly!",
+        "de_DE": "%success% %mainPrefix% %dot% Du hast kannst nun <red>nicht</red> mehr fliegen!"
+    }
+}
