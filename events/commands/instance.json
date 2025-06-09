@@ -1,0 +1,5 @@
+{
+    "EVENTS.COMMANDS.INSTANCE.SAVE": {
+        "en_US": "%success% %prefixMain% %dot% <green>Successfully</green> saved the instance!"
+    }
+}
