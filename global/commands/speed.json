@@ -1,0 +1,18 @@
+{
+    "GLOBAL.COMMANDS.SPEED.SET.FLYING": {
+        "en_US": "%success% %prefixMain% %dot% Your <light_purple>Flying</light_purple> Speed is now <light_purple>[speed]</light_purple>!",
+        "de_DE": "%success% %prefixMain% %dot% Deine <light_purple>Fluggeschwindigkeit</light_purple> ist nun bei <light_purple>[speed]</light_purple>!"
+    },
+    "GLOBAL.COMMANDS.SPEED.SET.WALKING": {
+        "en_US": "%success% %prefixMain% %dot% Your <light_purple>Walking</light_purple> Speed is now <light_purple>[speed]</light_purple>!",
+        "de_DE": "%success% %prefixMain% %dot% Deine <light_purple>Laufgeschwindigkeit</light_purple> ist nun bei <light_purple>[speed]</light_purple>!"
+    },
+    "GLOBAL.COMMANDS.SPEED.GET.FLYING": {
+        "en_US": "%success% %prefixMain% %dot% Your <light_purple>Flying</light_purple> Speed is <light_purple>[speed]</light_purple>!",
+        "de_DE": "%success% %prefixMain% %dot% Deine <light_purple>Fluggeschwindigkeit</light_purple> ist bei <light_purple>[speed]</light_purple>!"
+    },
+    "GLOBAL.COMMANDS.SPEED.GET.WALKING": {
+        "en_US": "%success% %prefixMain% %dot% Your <light_purple>Walking</light_purple> Speed is <light_purple>[speed]</light_purple>!",
+        "de_DE": "%success% %prefixMain% %dot% Deine <light_purple>Laufgeschwindigkeit</light_purple> ist bei <light_purple>[speed]</light_purple>!"
+    }
+}
